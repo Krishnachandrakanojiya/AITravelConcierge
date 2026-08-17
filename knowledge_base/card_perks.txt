@@ -1,0 +1,14 @@
+BankGold:
+- 4x dining points worldwide
+- No foreign transaction fee
+- Complimentary travel insurance
+
+BankPlatinum:
+- Unlimited lounge access
+- 5x travel rewards
+- Premium concierge service
+
+BankRewards:
+- Cashback on travel bookings
+- Hotel discounts
+- Airport transfer offers

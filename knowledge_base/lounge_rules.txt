@@ -1,0 +1,10 @@
+Airport Lounge Rules
+
+BankGold:
+- 2 complimentary visits per year
+
+BankPlatinum:
+- Unlimited lounge access
+
+BankRewards:
+- No lounge access
